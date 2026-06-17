@@ -1,6 +1,5 @@
 local scripts = {
-    rotation = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/rotation/v1/main.lua",
-    create_world = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/create-world/main.lua",
+    create_world = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/create-world/v1.lua",
 }
 
 local function listKeys(t)
