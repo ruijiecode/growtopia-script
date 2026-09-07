@@ -6,7 +6,8 @@ local scripts = {
     rota192 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/rotation/v1.9.2/main.lua",
     pnb = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/pnb/v3/main.lua",
     pnb31 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/pnb/v3.1/main.lua",
-    harvest = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/harvest/v4.0.lua"
+    harvest = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/harvest/v4.0.lua",
+    harvest41 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/harvest/v4.1.lua"
 }
 
 local function listKeys(t)
