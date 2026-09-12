@@ -8,7 +8,8 @@ local scripts = {
     pnb31 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/pnb/v3.1/main.lua",
     harvest = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/harvest/v4.0.lua",
     harvest41 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/harvest/v4.1.lua",
-    plant30 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/plant/v3.0.lua"
+    plant30 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/plant/v3.0.lua",
+    plant31 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/plant/v3.1.lua"
 }
 
 local function listKeys(t)
