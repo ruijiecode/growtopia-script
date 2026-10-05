@@ -19,7 +19,8 @@ local scripts = {
     plant32 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/plant/v3.2.lua",
     harvest423 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/harvest/v4.2.3.lua",
     transfer12 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/transfer/v1.2.lua",
-    splice11 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/splice/v1.1.lua"
+    splice11 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/splice/v1.1.lua",
+    pnb32 = "https://raw.githubusercontent.com/ruijiecode/growtopia-script/refs/heads/main/pnb/v3.2.lua"
 }
 
 local function listKeys(t)
